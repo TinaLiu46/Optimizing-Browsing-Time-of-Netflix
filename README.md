@@ -11,3 +11,6 @@ Multivariate experiments - factorial approach
 
 ## Exploring Significant Design Factors
 ![Goal2](https://github.com/TinaLiu46/Optimizing-Browsing-Time-of-Netflix/blob/main/design.png?raw=true "Title")
+
+## Conclusion
+According to our experiment, we conclude that the table shown below is the optimal location of the four factors and the optimal value of browsing time is 10.52 minutes.
