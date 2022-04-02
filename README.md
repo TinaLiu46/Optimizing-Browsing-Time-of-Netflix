@@ -10,4 +10,4 @@ We conducted an experiment to minimize the Netflix users’ browsing time. This 
 Multivariate experiments - factorial approach
 
 ## Exploring Significant Design Factors
-![Goal2](https://github.com/TinaLiu46/Predicting-Dogecoin-Stock-Performance-using-Twitter-Data/blob/main/Images/Goal2.png?raw=true "Title")
+![Goal2](https://github.com/TinaLiu46/Optimizing-Browsing-Time-of-Netflix/blob/main/design.png?raw=true "Title")
